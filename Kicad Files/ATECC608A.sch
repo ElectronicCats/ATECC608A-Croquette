@@ -6,12 +6,12 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "ATECC608A"
-Date "2019-09-02"
+Date "2019-09-19"
 Rev "0.1"
 Comp "Electronic Cat"
 Comment1 ""
 Comment2 ""
-Comment3 ""
+Comment3 "Montserrat Figueroa"
 Comment4 "Andres Sabas"
 $EndDescr
 $Comp
@@ -48,10 +48,10 @@ F 3 "~" H 6910 3050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:LED D1
+L Device:LED ON
 U 1 1 5D6EC4F7
 P 3700 3070
-F 0 "D1" H 3693 3286 50  0000 C CNN
+F 0 "ON" H 3693 3286 50  0000 C CNN
 F 1 "LED" H 3693 3195 50  0000 C CNN
 F 2 "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3700 3070 50  0001 C CNN
 F 3 "~" H 3700 3070 50  0001 C CNN
@@ -201,7 +201,7 @@ $Comp
 L Device:R_Small R3
 U 1 1 5D6EC7EA
 P 5850 2530
-F 0 "R3" H 5710 2600 50  0000 L CNN
+F 0 "R3" H 5700 2660 50  0000 L CNN
 F 1 "4K7" H 5660 2540 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5850 2530 50  0001 C CNN
 F 3 "~" H 5850 2530 50  0001 C CNN
@@ -222,8 +222,8 @@ $Comp
 L Device:R_Small R2
 U 1 1 5D6EDC5B
 P 5940 2510
-F 0 "R2" H 5999 2556 50  0000 L CNN
-F 1 "4K7" H 5999 2465 50  0000 L CNN
+F 0 "R2" H 6000 2620 50  0000 L CNN
+F 1 "4K7" H 6050 2470 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5940 2510 50  0001 C CNN
 F 3 "~" H 5940 2510 50  0001 C CNN
 	1    5940 2510
