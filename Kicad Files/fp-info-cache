@@ -1,4 +1,361 @@
-16301030725221717
+17124589825841408
+Aesthetics
+OSHW_MX003
+
+
+0
+0
+0
+Aesthetics
+OSHW_MX0007
+
+
+0
+0
+0
+Aesthetics
+OSHW_MX0007_8x8
+
+
+0
+0
+0
+Aesthetics
+OSHW_MX0009
+
+
+0
+0
+0
+Aesthetics
+ThisBoardBelongto
+
+
+0
+0
+0
+Aesthetics
+beta_testing
+
+
+0
+0
+0
+Aesthetics
+chip_1
+
+
+0
+0
+0
+Aesthetics
+chip_sms
+
+
+0
+0
+0
+Aesthetics
+chip_sms_mask
+
+
+0
+0
+0
+Aesthetics
+digetech
+
+
+0
+0
+0
+Aesthetics
+digetech_inverted
+
+
+0
+0
+0
+Aesthetics
+electronic_cats_logo_4x3
+
+
+0
+0
+0
+Aesthetics
+electronic_cats_logo_8x6
+
+
+0
+0
+0
+Aesthetics
+escornabot_8x8
+
+
+0
+0
+0
+Aesthetics
+escornabot_16x16
+
+
+0
+0
+0
+Aesthetics
+fabcity
+
+
+0
+0
+0
+Aesthetics
+fablab_yucatan
+
+
+0
+0
+0
+Aesthetics
+gameoflife
+
+
+0
+0
+0
+Aesthetics
+gameoflife_inverted
+
+
+0
+0
+0
+Aesthetics
+hacedores
+
+
+0
+0
+0
+Aesthetics
+heart
+Imported from heart.svg
+svg2mod
+0
+0
+0
+Aesthetics
+heart_trans
+Imported from heart.svg
+svg2mod
+0
+0
+0
+Aesthetics
+huntercat_67x37
+
+
+0
+0
+0
+Aesthetics
+huntercat_135x74
+
+
+0
+0
+0
+Aesthetics
+jacdac_logo
+
+
+0
+0
+0
+Aesthetics
+jacdac_logo_14x6
+
+
+0
+0
+0
+Aesthetics
+led_graphic
+Imported from meow_meow.svg
+svg2mod
+0
+0
+0
+Aesthetics
+love
+
+
+0
+0
+0
+Aesthetics
+love_2
+
+
+0
+0
+0
+Aesthetics
+love_3
+
+
+0
+0
+0
+Aesthetics
+love_4
+
+
+0
+0
+0
+Aesthetics
+love_5
+
+
+0
+0
+0
+Aesthetics
+love_6
+
+
+0
+0
+0
+Aesthetics
+love_7
+
+
+0
+0
+0
+Aesthetics
+meowmeow_logo
+
+
+0
+0
+0
+Aesthetics
+meowmeow_logo_21x8
+
+
+0
+0
+0
+Aesthetics
+meteorito
+
+
+0
+0
+0
+Aesthetics
+openhack
+
+
+0
+0
+0
+Aesthetics
+openhack_negativo
+
+
+0
+0
+0
+Aesthetics
+openhack_negatvo
+
+
+0
+0
+0
+Aesthetics
+pcbway
+
+
+0
+0
+0
+Aesthetics
+redmet
+
+
+0
+0
+0
+Aesthetics
+seguridad-01
+
+
+0
+0
+0
+Aesthetics
+seguridad-03
+
+
+0
+0
+0
+Aesthetics
+titule_electronic_large
+Imported from ec.svg
+svg2mod
+0
+0
+0
+Aesthetics
+titule_electronic_med
+Imported from ec.svg
+svg2mod
+0
+0
+0
+Aesthetics
+usb_graphic
+Imported from meow_meow.svg
+svg2mod
+0
+0
+0
+Aesthetics
+wurth
+
+
+0
+0
+0
+Batteries
+BAT-HLD-001
+
+
+0
+3
+2
+Batteries
+BAT-HLD-012-SMT-OTL
+
+
+0
+3
+2
+Batteries
+charger_EC_3.3V_battery
+
+
+0
+4
+4
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -15242,6 +15599,202 @@ Connector_Molex
 Molex_MicroClasp_55932-1530_1x15_P2.00mm_Vertical
 Molex MicroClasp Wire-to-Board System, 55932-1530, 15 Pins (http://www.molex.com/pdm_docs/sd/559320530_sd.pdf), generated with kicad-footprint-generator
 connector Molex MicroClasp side entry
+0
+15
+15
+Connector_Molex
+Molex_MicroClasp_55935-0210_1x02_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0210, with PCB locator, 2 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+2
+2
+Connector_Molex
+Molex_MicroClasp_55935-0230_1x02_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0230, 2 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+2
+2
+Connector_Molex
+Molex_MicroClasp_55935-0310_1x03_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0310, with PCB locator, 3 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+3
+3
+Connector_Molex
+Molex_MicroClasp_55935-0330_1x03_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0330, 3 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+3
+3
+Connector_Molex
+Molex_MicroClasp_55935-0410_1x04_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0410, with PCB locator, 4 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+4
+4
+Connector_Molex
+Molex_MicroClasp_55935-0430_1x04_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0430, 4 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+4
+4
+Connector_Molex
+Molex_MicroClasp_55935-0510_1x05_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0510, with PCB locator, 5 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+5
+5
+Connector_Molex
+Molex_MicroClasp_55935-0530_1x05_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0530, 5 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+5
+5
+Connector_Molex
+Molex_MicroClasp_55935-0610_1x06_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0610, with PCB locator, 6 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+6
+6
+Connector_Molex
+Molex_MicroClasp_55935-0630_1x06_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0630, 6 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+6
+6
+Connector_Molex
+Molex_MicroClasp_55935-0710_1x07_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0710, with PCB locator, 7 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+7
+7
+Connector_Molex
+Molex_MicroClasp_55935-0730_1x07_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0730, 7 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+7
+7
+Connector_Molex
+Molex_MicroClasp_55935-0810_1x08_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0810, with PCB locator, 8 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+8
+8
+Connector_Molex
+Molex_MicroClasp_55935-0830_1x08_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0830, 8 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+8
+8
+Connector_Molex
+Molex_MicroClasp_55935-0910_1x09_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0910, with PCB locator, 9 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+9
+9
+Connector_Molex
+Molex_MicroClasp_55935-0930_1x09_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-0930, 9 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+9
+9
+Connector_Molex
+Molex_MicroClasp_55935-1010_1x10_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1010, with PCB locator, 10 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+10
+10
+Connector_Molex
+Molex_MicroClasp_55935-1030_1x10_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1030, 10 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+10
+10
+Connector_Molex
+Molex_MicroClasp_55935-1110_1x11_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1110, with PCB locator, 11 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+11
+11
+Connector_Molex
+Molex_MicroClasp_55935-1130_1x11_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1130, 11 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+11
+11
+Connector_Molex
+Molex_MicroClasp_55935-1210_1x12_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1210, with PCB locator, 12 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+12
+12
+Connector_Molex
+Molex_MicroClasp_55935-1230_1x12_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1230, 12 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+12
+12
+Connector_Molex
+Molex_MicroClasp_55935-1310_1x13_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1310, with PCB locator, 13 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+13
+13
+Connector_Molex
+Molex_MicroClasp_55935-1330_1x13_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1330, 13 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+13
+13
+Connector_Molex
+Molex_MicroClasp_55935-1410_1x14_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1410, with PCB locator, 14 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+14
+14
+Connector_Molex
+Molex_MicroClasp_55935-1430_1x14_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1430, 14 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+14
+14
+Connector_Molex
+Molex_MicroClasp_55935-1510_1x15_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1510, with PCB locator, 15 Pins (http://www.molex.com/pdm_docs/sd/559350210_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
+0
+15
+15
+Connector_Molex
+Molex_MicroClasp_55935-1530_1x15_P2.00mm_Horizontal
+Molex MicroClasp Wire-to-Board System, 55935-1530, 15 Pins (http://www.molex.com/pdm_docs/sd/559350530_sd.pdf), generated with kicad-footprint-generator
+connector Molex MicroClasp horizontal
 0
 15
 15
@@ -40348,6 +40901,13 @@ USB Type-C Receptacle Through-hole Right angle
 20
 17
 Connector_USB
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+Connector_USB
 USB_C_Receptacle_JAE_DX07S024WJ1R350
 http://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ117219.pdf
 USB C Type-C Receptacle SMD
@@ -40918,6 +41478,70 @@ Connector_Wire
 SolderWirePad_2x02_P7.62mm_Drill2.5mm
 Wire solder connection
 connector
+0
+4
+4
+Connectors
+79523141
+WA-BCPH SMT Battery Holder Battery Type:2016,2020,2025,2032 500/Reel
+
+0
+3
+2
+Connectors
+662104130822
+
+
+0
+6
+6
+Connectors
+662104145021
+WR-MPC3 3.00mm Male Single Row SMT Angled Header SMT Fitting Nail Clip, 4 Pins
+
+0
+6
+6
+Connectors
+662110145021
+WR-MPC3 3.00mm Male Single Row SMT Angled Header SMT Fitting Nail Clip, 10 Pins
+
+0
+12
+12
+Connectors
+629105150521
+<b>629105150521</b><p>
+WR-COM_USB_Micro Type B_Horizontal_SMT Micro Type B Horizontal SMT - 3A current at Pin1 & Pin 5 - with Pegs and THT shielding Pins  - T&R Packaging
+
+0
+9
+6
+Connectors
+AUDIO-JACK-TRRS-SMD
+
+
+0
+6
+6
+Connectors
+SEWALLI
+
+
+0
+1
+1
+Connectors
+SEWALLI_renew
+
+
+0
+187
+1
+Connectors
+usb-PCB
+
+
 0
 4
 4
@@ -44512,6 +45136,76 @@ single digit 7 segemnt red/green LED
 0
 10
 10
+ESP32-footprints-Lib
+ESP32
+
+
+0
+49
+49
+ESP32-footprints-Lib
+ESP32-WROOM
+
+
+0
+39
+39
+ESP32-footprints-Lib
+ESP3212
+
+
+0
+31
+31
+ESP8266
+ESP-01
+Module, ESP-8266, ESP-01, 8 pin
+Module ESP-8266 ESP8266
+0
+8
+8
+ESP8266
+ESP-06
+
+
+0
+20
+16
+ESP8266
+ESP-07v2
+Module, ESP-8266, ESP-07v2, 16 pad, SMD
+Module ESP-8266 ESP8266
+0
+16
+16
+ESP8266
+ESP-12
+Module, ESP-8266, ESP-12, 16 pad, SMD
+Module ESP-8266 ESP8266
+0
+16
+16
+ESP8266
+ESP-12E
+Module, ESP-8266, ESP-12, 16 pad, SMD
+Module ESP-8266 ESP8266
+0
+22
+22
+ESP8266
+ESP-13-WROOM-02
+Module, ESP-8266, ESP-13-WROOM-02, 18 pad, SMD
+Module ESP-8266 ESP8266
+0
+19
+19
+ESP8266
+ESP-201
+Module, ESP-8266, ESP-201, 26 pin, through hole, 0.1 inch
+Module ESP-8266 ESP8266
+0
+26
+26
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -45146,6 +45840,13 @@ Fuse
 Fuse_Littelfuse_395Series
 Fuse, TE5, Littelfuse/Wickmann, No. 460, No560,
 Fuse TE5 Littelfuse/Wickmann No. 460 No560 
+0
+2
+2
+Fuse
+Fuse_Schurter_UMT250
+Surface Mount Fuse, 3 x 10.1 mm, Time-Lag T, 250 VAC, 125 VDC (https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_UMT_250.pdf)
+Schurter fuse smd
 0
 2
 2
@@ -48937,6 +49638,13 @@ LED SMD right angle  CCA
 3
 3
 LED_SMD
+LED_Osram_Lx_P47F_D2mm_ReverseMount
+OSRAM, reverse-mount LED, SMD, 2mm diameter, http://www.farnell.com/datasheets/2711587.pdf
+LED ReverseMount Reverse
+0
+4
+2
+LED_SMD
 LED_PLCC-2
 LED PLCC-2 SMD package
 LED PLCC-2 SMD
@@ -52360,6 +53068,20 @@ LFCSP 16 0.65
 21
 17
 Package_CSP
+LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+21
+17
+Package_CSP
+LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+LFCSP NoLead
+0
+31
+17
+Package_CSP
 LFCSP-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm
 20-Lead Frame Chip Scale Package - 4x4x0.9 mm Body [LFCSP], (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_20_6.pdf)
 LFCSP 0.5
@@ -54523,6 +55245,20 @@ QFN DFN_QFN
 91
 49
 Package_DFN_QFN
+QFN-48-1EP_8x8mm_P0.5mm_EP6.2x6.2mm
+QFN, 48 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232H.pdf#page=49), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+74
+49
+Package_DFN_QFN
+QFN-48-1EP_8x8mm_P0.5mm_EP6.2x6.2mm_ThermalVias
+QFN, 48 Pin (https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232H.pdf#page=49), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+111
+49
+Package_DFN_QFN
 QFN-52-1EP_7x8mm_P0.5mm_EP5.41x6.45mm
 QFN, 52 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/QFN_52_05-08-1729.pdf), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
@@ -54844,6 +55580,20 @@ TQFN NoLead
 0
 21
 17
+Package_DFN_QFN
+TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+25
+21
+Package_DFN_QFN
+TQFN-20-1EP_5x5mm_P0.65mm_EP3.1x3.1mm_ThermalVias
+TQFN, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0140.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+TQFN NoLead
+0
+35
+21
 Package_DFN_QFN
 TQFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm_PullBack
 TQFN, 24 Pin (https://ams.com/documents/20143/36005/AS1115_DS000206_1-00.pdf/3d3e6d35-b184-1329-adf9-2d769eb2404f), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
@@ -62908,6 +63658,1510 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
+Pines
+613006216921
+WR-PHD 2.54mm Dual S. Header Bottom Entry Large, 6 Pins
+
+0
+6
+6
+Pines
+690357100472
+WR-MM Male Connector with Polarization, 4 Pins
+
+0
+4
+4
+Pines
+690357100672
+WR-MM Male Connector with Polarization, 6 Pins
+
+0
+6
+6
+Pines
+690357100872
+WR-MM Male Connector with Polarization, 8 Pins
+
+0
+8
+8
+Pines
+690357101072
+WR-MM Male Connector with Polarization, 10 Pins
+
+0
+10
+10
+Pines
+690357101272
+WR-MM Male Connector with Polarization, 12 Pins
+
+0
+12
+12
+Pines
+690357101672
+WR-MM Male Connector with Polarization, 16 Pins
+
+0
+16
+16
+Pines
+690357101872
+WR-MM Male Connector with Polarization, 18 Pins
+
+0
+18
+18
+Pines
+690357102072
+WR-MM Male Connector with Polarization, 20 Pins
+
+0
+20
+20
+Pines
+690357102272
+WR-MM Male Connector with Polarization, 22 Pins
+
+0
+22
+22
+Pines
+690357102672
+WR-MM Male Connector with Polarization, 26 Pins
+
+0
+26
+26
+Pines
+690357280476
+WR-MM Male SMT Connector without Latch and without Polarization, 4pins
+
+0
+4
+4
+Pines
+690357280676
+WR-MM Male SMT Connector without Latch and without Polarization, 6 pins
+
+0
+6
+6
+Pines
+690357281076
+WR-MM Male SMT Connector without Latch and without Polarization, 10 pins
+
+0
+10
+10
+Pines
+690357281276
+WR-MM Male SMT Connector without Latch and without Polarization, 12 pins
+
+0
+12
+12
+Pines
+690357281476
+WR-MM Male SMT Connector without Latch and without Polarization, 14 pins
+
+0
+14
+14
+Pines
+690357281876
+WR-MM Male SMT Connector without Latch and without Polarization, 18 pins
+
+0
+18
+18
+Pines
+690357282076
+WR-MM Male SMT Connector without Latch and without Polarization, 20 pins
+
+0
+20
+20
+Pines
+690357282276
+WR-MM Male SMT Connector without Latch and without Polarization, 22 pins
+
+0
+22
+22
+Pines
+690357282676
+WR-MM Male SMT Connector without Latch and without Polarization, 26 pins
+
+0
+26
+26
+Pines
+690367180472
+<b>WR-MM Female Connector without Latch and without Polarization, 4 Pins
+
+0
+4
+4
+Pines
+690367180672
+<b>WR-MM Female Connector without Latch and without Polarization, 6 Pins
+
+0
+6
+6
+Pines
+690367180872
+<b>WR-MM Female Connector without Latch and without Polarization, 8 Pins
+
+0
+8
+8
+Pines
+690367181072
+<b>WR-MM Female Connector without Latch and without Polarization, 10 Pins
+
+0
+10
+10
+Pines
+690367181272
+<b>WR-MM Female Connector without Latch and without Polarization, 12 Pins
+
+0
+12
+12
+Pines
+690367181472
+<b>WR-MM Female Connector without Latch and without Polarization, 14 Pins
+
+0
+14
+14
+Pines
+690367181672
+<b>WR-MM Female Connector without Latch and without Polarization, 16 Pins
+
+0
+16
+16
+Pines
+690367182072
+<b>WR-MM Female Connector without Latch and without Polarization, 20 Pins
+
+0
+20
+20
+Pines
+690367182272
+<b>WR-MM Female Connector without Latch and without Polarization, 22 Pins
+
+0
+22
+22
+Pines
+690367182472
+<b>WR-MM Female Connector without Latch and without Polarization, 24 Pins
+
+0
+24
+24
+Pines
+690367182672
+<b>WR-MM Female Connector without Latch and without Polarization, 26 Pins
+
+0
+26
+26
+Pines
+690367190472
+<b>WR-MM Female Connector with Latch and without Polarization, 4 Pins
+
+0
+4
+4
+Pines
+690367190672
+<b>WR-MM Female Connector with Latch and without Polarization, 6 Pins
+
+0
+6
+6
+Pines
+690367190872
+<b>WR-MM Female Connector with Latch and without Polarization, 8 Pins
+
+0
+8
+8
+Pines
+690367191072
+<b>WR-MM Female Connector with Latch and without Polarization, 10 Pins
+
+0
+10
+10
+Pines
+690367191472
+<b>WR-MM Female Connector with Latch and without Polarization, 14 Pins
+
+0
+14
+14
+Pines
+690367191672
+<b>WR-MM Female Connector with Latch and without Polarization, 16 Pins
+
+0
+16
+16
+Pines
+690367191872
+<b>WR-MM Female Connector with Latch and without Polarization, 18 Pins
+
+0
+18
+18
+Pines
+690367192272
+<b>WR-MM Female Connector with Latch and without Polarization,22 Pins
+
+0
+22
+22
+Pines
+690367192472
+<b>WR-MM Female Connector with Latch and without Polarization, 24 Pins
+
+0
+24
+24
+Pines
+690367192672
+<b>WR-MM Female Connector with Latch and without Polarization, 26 Pins
+
+0
+26
+26
+Pines
+690367280476
+WR-MM Female SMT Connector with Polarization, 4 pins
+
+0
+4
+4
+Pines
+690367280676
+WR-MM Female SMT Connector with Polarization, 6 pins
+
+0
+6
+6
+Pines
+690367280876
+WR-MM Female SMT Connector with Polarization, 8 pins
+
+0
+8
+8
+Pines
+690367281076
+WR-MM Female SMT Connector with Polarization, 10 pins
+
+0
+10
+10
+Pines
+690367281276
+WR-MM Female SMT Connector with Polarization, 12 pins
+
+0
+12
+12
+Pines
+690367281676
+WR-MM Female SMT Connector with Polarization, 16 pins
+
+0
+16
+16
+Pines
+690367281876
+WR-MM Female SMT Connector with Polarization, 18 pins
+
+0
+18
+18
+Pines
+690367282076
+WR-MM Female SMT Connector with Polarization, 20 pins
+
+0
+20
+20
+Pines
+690367282276
+WR-MM Female SMT Connector with Polarization, 22 pins
+
+0
+22
+22
+Pines
+690367282476
+WR-MM Female SMT Connector with Polarization, 24 pins
+
+0
+23
+23
+Pines
+690367282676
+WR-MM Female SMT Connector with Polarization, 26 pins
+
+0
+26
+26
+Pines
+690367290476
+WR-MM Female SMT Connector with Latch and with Polarization, 4 pins
+
+0
+4
+4
+Pines
+610X0421121
+WR-PHD 2.54mm Dual SMT Pin Header, 4 Pins
+
+0
+4
+4
+Pines
+610X0621121
+WR-PHD 2.54mm Dual SMT Pin Header, 6 Pins
+
+0
+6
+6
+Pines
+610X0821121
+WR-PHD 2.54mm Dual SMT Pin Header, 8 Pins
+
+0
+8
+8
+Pines
+610X1021121
+WR-PHD 2.54mm Dual SMT Pin Header, 10 Pins
+
+0
+10
+10
+Pines
+610X1221121
+WR-PHD 2.54mm Dual SMT Pin Header, 12 Pins
+
+0
+12
+12
+Pines
+610X1221821
+WR-PHD 2.54mm Dual SMT Socket Header, 12 Pins
+
+0
+12
+12
+Pines
+610X2021121
+WR-PHD 2.54mm Dual SMT Pin Header, 20 Pins
+
+0
+20
+20
+Pines
+621X0421021
+<b>WR-PHD 1.27mm Dual SMT Pin Header H=3.80 mm, 4 Pins<b>
+
+0
+4
+4
+Pines
+621X0421921
+WR-PHD 2.00mm Dual SMT Pin Header, 4 Pins
+
+0
+4
+4
+Pines
+621X0621921
+WR-PHD 2.00mm Dual SMT Pin Header, 6 Pins
+
+0
+6
+6
+Pines
+621X0821021
+<b>WR-PHD 1.27mm Dual SMT Pin Header H=3.80 mm, 8 Pins<b>
+
+0
+8
+8
+Pines
+621X1021021
+<b>WR-PHD 1.27mm Dual SMT Pin Header H=3.80 mm, 14 Pins<b>
+
+0
+10
+10
+Pines
+621X1021921
+WR-PHD 2.00mm Dual SMT Pin Header, 10 Pins
+
+0
+10
+10
+Pines
+621X1421021
+<b>WR-PHD 1.27mm Dual SMT Pin Header H=3.80 mm, 14 Pins<b>
+
+0
+14
+14
+Pines
+621X1421921
+WR-PHD 2.00mm Dual SMT Pin Header, 14 Pins
+
+0
+14
+14
+Pines
+621X1621021
+<b>WR-PHD 1.27mm Dual SMT Pin Header H=3.80 mm, 16 Pins<b>
+
+0
+16
+16
+Pines
+621X1621921
+WR-PHD 2.00mm Dual SMT Pin Header, 16 Pins
+
+0
+16
+16
+Pines
+621X2021021
+<b>WR-PHD 1.27mm Dual SMT Pin Header H=3.80 mm, 20 Pins<b>
+
+0
+20
+20
+Pines
+621X2021921
+WR-PHD 2.00mm Dual SMT Pin Header, 20 Pins
+
+0
+20
+20
+Pines
+621X2421921
+WR-PHD 2.00mm Dual SMT Pin Header, 24 Pins
+
+0
+24
+24
+Pines
+621X2821021
+<b>WR-PHD 1.27mm Dual SMT Pin Header H=3.80 mm, 28 Pins<b>
+
+0
+28
+28
+Pines
+621X3221921
+<b> WR-PHD 2.00mm Dual SMT Pin Header, 32 Pins <b>
+
+0
+32
+32
+Pines
+621X4021021
+<b>WR-PHD 1.27mm Dual SMT Pin Header H=3.80 mm, 40 Pins<b>
+
+0
+40
+40
+Pines
+621X04245821
+WR-PHD 2.00 mm Dual SMT Pin Header SMT, 4 pins, dual row, straight, gold plating, 2mm long
+
+0
+4
+4
+Pines
+621X4421021
+<b>WR-PHD 1.27mm Dual SMT Pin Header H=3.80 mm, 44 Pins<b>
+
+0
+44
+44
+Pines
+621X4421921
+WR-PHD 2.00mm Dual SMT Pin Header, 44 Pins
+
+0
+44
+44
+Pines
+621X06245821
+WR-PHD 2.00 mm Dual SMT Pin Header SMT, 6 pins, dual row, straight, gold plating, 2mm long
+
+0
+6
+6
+Pines
+621X08245821
+WR-PHD 2.00 mm Dual SMT Pin Header SMT, 8 pins, dual row, straight, gold plating, 2mm long
+
+0
+8
+8
+Pines
+621X10245821
+WR-PHD 2.00 mm Dual SMT Pin Header SMT, 8 pins, dual row, straight, gold plating, 2mm long
+
+0
+10
+10
+Pines
+621X14245821
+WR-PHD 2.00 mm Dual SMT Pin Header SMT, 14 pins, dual row, straight, gold plating, 2mm long
+
+0
+14
+14
+Pines
+621X16245821
+WR-PHD 2.00 mm Dual SMT Pin Header SMT, 16 pins, dual row, straight, gold plating, 2mm long
+
+0
+16
+16
+Pines
+621X20245821
+WR-PHD 2.00 mm Dual SMT Pin Header SMT, 20 pins, dual row, straight, gold plating, 2mm long
+
+0
+20
+20
+Pines
+621X24245821
+WR-PHD 2.00 mm Dual SMT Pin Header SMT, 24 pins, dual row, straight, gold plating, 2mm long
+
+0
+24
+24
+Pines
+610106249121
+<b>610106249121</b><p>
+
+WR-PHD 2.54 mm Dual Pin Header 6 pins, dual pin, SMT horizontal, gold plating
+
+0
+6
+6
+Pines
+610108249121
+<b>610108249121</b><p>
+
+WR-PHD 2.54 mm Dual Pin Header 8 pins, dual pin, SMT horizontal, gold plating
+
+0
+8
+8
+Pines
+610110249121
+<b>610110249121</b><p>
+WR-PHD 2.54 mm Dual Pin Header 10 pins, dual pin, SMT horizontal, gold plating
+
+0
+10
+10
+Pines
+610112249121
+<b>610112249121</b><p>
+WR-PHD 2.54 mm Dual Pin Header 12 pins, dual pin, SMT horizontal, gold plating
+
+0
+12
+12
+Pines
+610114249121
+<b>610114249121</b><p>
+WR-PHD 2.54 mm Dual Pin Header 14 pins, dual pin, SMT horizontal, gold plating
+
+0
+14
+14
+Pines
+610116249121
+<b>610116249121</b><p>
+WR-PHD 2.54 mm Dual Pin Header16 pins, dual pin, SMT horizontal, gold plating
+
+0
+16
+16
+Pines
+610120249121
+<b>610120249121</b><p>
+WR-PHD 2.54 mm Dual Pin Header 20 pins, dual pin, SMT horizontal, gold plating
+
+0
+20
+20
+Pines
+610122249121
+<b>610122249121</b><p>
+WR-PHD 2.54 mm Dual Pin Header 22 pins, dual pin, SMT horizontal, gold plating
+
+0
+22
+22
+Pines
+610124249121
+<b>610124249121</b><p>
+WR-PHD 2.54 mm Dual Pin Header 24 pins, dual pin, SMT horizontal, gold plating
+
+0
+24
+24
+Pines
+610126249121
+<b>610126249121</b><p>
+
+WR-PHD 2.54 mm Dual Pin Header 26 pins, dual pin, SMT horizontal, gold plating
+
+0
+26
+26
+Pines
+623310235521
+<b>WR-PHD 1.27mm Dual SMT Pin Header H=1.80mm, 10 Pins<b>
+
+0
+10
+10
+Pines
+623326235521
+<b>WR-PHD 1.27mm Dual SMT Pin Header H=1.80mm, 26 Pins<b>
+
+0
+26
+26
+Pines
+623350235521
+<b>WR-PHD 1.27mm Dual SMT Pin Header H=1.80mm, 50 Pins<b>
+
+0
+50
+50
+Pines
+61000418321
+WR-PHD 2.54mm SMT Pin Header, 4 Pins
+
+0
+4
+4
+Pines
+61000618221
+WR-PHD 2.54mm SMT Pin Header, 6 Pins
+
+0
+6
+6
+Pines
+61000618321
+WR-PHD 2.54mm SMT Pin Header, 6 Pins
+
+0
+6
+6
+Pines
+61001018221
+WR-PHD 2.54mm SMT Pin Header, 10 Pins
+
+0
+10
+10
+Pines
+61001018321
+WR-PHD 2.54mm SMT Pin Header, 10Pins
+
+0
+10
+10
+Pines
+61001418221
+WR-PHD 2.54mm SMT Pin Header, 14 Pins
+
+0
+14
+14
+Pines
+61001618221
+WR-PHD 2.54mm SMT Pin Header, 16 Pins
+
+0
+16
+16
+Pines
+61001618321
+WR-PHD 2.54mm SMT Pin Header, 16 Pins
+
+0
+16
+16
+Pines
+61001821121
+WR-PHD 2.54mm Dual SMT Pin Header, 18 Pins
+
+0
+18
+18
+Pines
+61002221121
+WR-PHD 2.54mm Dual SMT Pin Header, 22 Pins
+
+0
+22
+22
+Pines
+61002418221
+WR-PHD 2.54mm SMT Pin Header, 24 Pins
+
+0
+24
+24
+Pines
+61002418321
+WR-PHD 2.54mm SMT Pin Header, 24 Pins
+
+0
+24
+24
+Pines
+61002421121
+WR-PHD 2.54mm Dual SMT Pin Header, 24 Pins
+
+0
+24
+24
+Pines
+61002621121
+WR-PHD 2.54mm Dual SMT Pin Header, 26 Pins
+
+0
+26
+26
+Pines
+61003021121
+WR-PHD 2.54mm Dual SMT Pin Header, 30 Pins
+
+0
+30
+30
+Pines
+61003218221
+WR-PHD 2.54mm SMT Pin Header, 32 Pins
+
+0
+32
+32
+Pines
+61003218321
+WR-PHD 2.54mm SMT Pin Header, 32 Pins
+
+0
+32
+32
+Pines
+61003418321
+WR-PHD 2.54mm SMT Pin Header, 34 Pins
+
+0
+34
+34
+Pines
+61003421121
+WR-PHD 2.54mm Dual SMT Pin Header, 34 Pins
+
+0
+34
+34
+Pines
+61003618321
+WR-PHD 2.54mm SMT Pin Header, 36 Pins
+
+0
+36
+36
+Pines
+61003621121
+WR-PHD 2.54mm Dual SMT Pin Header, 36 Pins
+
+0
+36
+36
+Pines
+61006421121
+WR-PHD 2.54mm Dual SMT Pin Header, 64 Pins
+
+0
+64
+64
+Pines
+61007221121
+WR-PHD 2.54mm Dual SMT Pin Header, 72 Pins
+
+0
+72
+72
+Pines
+61300111121
+WR-PHD 2.54 mm Pin Header, 1 Pin
+
+0
+1
+1
+Pines
+61300211021
+WR-PHD 2.54mm Angled Pin Header, 2 Pins
+
+0
+2
+2
+Pines
+61300211121
+WR-PHD 2.54mm Pin Header, 2 Pin
+
+0
+2
+2
+Pines
+61300311021
+WR-PHD 2.54mm Angled Pin Header, 3 Pins
+
+0
+3
+3
+Pines
+61300311121
+WR-PHD 2.54mm Pin Header, 3 Pin
+
+0
+3
+3
+Pines
+61300411021
+WR-PHD 2.54mm Angled Pin Header, 4 Pins
+
+0
+4
+4
+Pines
+61300411121
+WR-PHD 2.54mm Pin Header, 4 Pin
+
+0
+4
+4
+Pines
+61300415721
+WR-PHD 2.54mm Socket Header Bottom Entry, 4 Pins
+
+0
+4
+4
+Pines
+61300421021
+WR-PHD 2.54mm Angled Dual Pin Header, 4 Pins
+
+0
+4
+4
+Pines
+61300421121
+WR-PHD 2.54mm Dual Pin Header, 4 Pins
+
+0
+5
+4
+Pines
+61300511021
+WR-PHD 2.54mm Angled Pin Header, 5 Pins
+
+0
+5
+5
+Pines
+61300511121
+WR-PHD 2.54mm Pin Header, 5 Pin
+
+0
+5
+5
+Pines
+61300611021
+WR-PHD 2.54mm Angled Pin Header, 6 Pins
+
+0
+6
+6
+Pines
+61300611121
+WR-PHD 2.54mm Pin Header, 6 Pin
+
+0
+6
+6
+Pines
+61300621021
+WR-PHD 2.54mm Angled Dual Pin Header, 6 Pins
+
+0
+6
+6
+Pines
+61300621121
+WR-PHD 2.54mm Dual Pin Header, 6 Pins
+
+0
+6
+6
+Pines
+61300711021
+WR-PHD 2.54mm Angled Pin Header, 7 Pins
+
+0
+7
+7
+Pines
+61300711121
+WR-PHD 2.54mm Pin Header, 7 Pins
+
+0
+7
+7
+Pines
+61300711821
+WR-PHD 2.54mm Socket Header, 7 Pins
+
+0
+7
+7
+Pines
+61300811021
+WR-PHD 2.54mm Angled Pin Header, 8 Pins
+
+0
+8
+8
+Pines
+61300811121
+WR-PHD 2.54mm Pin Header, 9 Pins
+
+0
+8
+8
+Pines
+61300821121
+WR-PHD 2.54mm Dual Pin Header; 8 Pins
+
+0
+8
+8
+Pines
+61300911021
+WR-PHD 2.54mm Angled Pin Header, 9 Pins
+
+0
+9
+9
+Pines
+61300911121
+WR-PHD 2.54mm Pin Header, 9 Pins
+
+0
+9
+9
+Pines
+61301011121
+WR-PHD 2.54mm Pin Header, 10 Pins
+
+0
+10
+10
+Pines
+61301211021
+WR-PHD 2.54mm Angled Pin Header, 12 Pins
+
+0
+12
+12
+Pines
+61301211121
+WR-PHD 2.54mm Pin Header, 12 Pins
+
+0
+12
+12
+Pines
+61301221121
+WR-PHD 2.54mm Dual Pin Header, 12 Pins
+
+0
+12
+12
+Pines
+61301311121
+WR-PHD 2.54mm Pin Header, 13 Pins
+
+0
+13
+13
+Pines
+61301411021
+WR-PHD 2.54mm Angled Pin Header, 14 Pins
+
+0
+14
+14
+Pines
+61301411121
+WR-PHD 2.54mm Pin Header, 14 Pins
+
+0
+14
+14
+Pines
+61301421121
+WR-PHD 2.54mm Dual Pin Header, 14 Pins
+
+0
+14
+14
+Pines
+61301511121
+WR-PHD 2.54mm Pin Header, 15 Pins
+
+0
+15
+15
+Pines
+61301611121
+WR-PHD 2.54mm Pin Header, 16 Pins
+
+0
+16
+16
+Pines
+61301621021
+WR-PHD 2.54mm Angled Dual Pin Header, 16 Pins
+
+0
+16
+16
+Pines
+61301621121
+WR-PHD 2.54mm Dual Pin Header, 16 Pins
+
+0
+16
+16
+Pines
+61301621821
+WR-PHD 2.54mm Dual Socket Header, 16 Pins
+
+0
+16
+16
+Pines
+61301625721
+<b> WR-PHD 2.54mm Angled Dual Pin Header, 16 Pins
+
+0
+16
+16
+Pines
+61301811021
+WR-PHD 2.54mm Angled Pin Header, 18 Pins
+
+0
+18
+18
+Pines
+61301811121
+WR-PHD 2.54mm Pin Header, 18 Pins
+
+0
+18
+18
+Pines
+61301821121
+WR-PHD 2.54mm Dual Pin Header, 18 Pins
+
+0
+18
+18
+Pines
+61302011121
+WR-PHD 2.54mm Pin Header, 20 Pins
+
+0
+20
+20
+Pines
+61302021021
+WR-PHD 2.54mm Angled Dual Pin Header, 20 Pins
+
+0
+20
+20
+Pines
+61302211021
+WR-PHD 2.54mm Angled Pin Header, 22 Pins
+
+0
+22
+22
+Pines
+61302211121
+WR-PHD 2.54mm Pin Header, 22 Pins
+
+0
+22
+22
+Pines
+61302221021
+WR-PHD 2.54 mm Angled Dual Pin Header-22 pins, dual row, right angled, gold plating
+
+0
+22
+22
+Pines
+61302221121
+WR-PHD 2.54mm Dual Pin Header, 22 Pins
+
+0
+22
+22
+Pines
+61302411121
+WR-PHD 2.54mm Pin Header, 24 Pins
+
+0
+24
+24
+Pines
+61302421021
+WR-PHD 2.54mm Angled Dual Pin Header, 24 Pins
+
+0
+24
+24
+Pines
+61302421121
+WR-PHD 2.54mm Dual Pin Header, 24 Pins
+
+0
+24
+24
+Pines
+61302511121
+WR-PHD 2.54mm Pin Header, 25 Pins
+
+0
+25
+25
+Pines
+61302621021
+WR-PHD 2.54 mm Angled Dual Pin Header-WR-PHD 2.54 mm Angled Dual Pin Header
+
+0
+26
+26
+Pines
+61302621121
+WR-PHD 2.54mm Dual Pin Header, 26 Pins
+
+0
+26
+26
+Pines
+61302821121
+WR-PHD 2.54mm Dual Pin Header, 28 Pins
+
+0
+28
+28
+Pines
+61303021121
+WR-PHD 2.54mm Dual Pin Header, 30 Pins
+
+0
+30
+30
+Pines
+61303211021
+WR-PHD 2.54mm Angled Pin Header, 32 Pins
+
+0
+32
+32
+Pines
+61303211121
+WR_PHD 2.54mm Pin Header, 32 Pins
+
+0
+32
+32
+Pines
+61303411021
+WR-PHD 2.54mm Angled Pin Header, 34 Pins
+
+0
+34
+34
+Pines
+61303421021
+WR-PHD 2.54mm Angled Dual Pin Header, 34 Pins
+
+0
+34
+34
+Pines
+61303421121
+WR-PHD 2.54mm Dual Pin Header, 34 Pins
+
+0
+34
+34
+Pines
+61303611021
+WR-PHD 2.54mm Angled Pin Header, 36 Pins
+
+0
+36
+36
+Pines
+61303611121
+WR-PHD 2.54mm Pin Header, 36 Pins
+
+0
+36
+36
+Pines
+61303621021
+WR-PHD 2.54mm Angled Dual Pin Header, 36 Pins
+
+0
+36
+36
+Pines
+61303621121
+WR-PHD 2.54mm Dual Pin Header, 36 Pins
+
+0
+36
+36
+Pines
+61304011021
+WR-PHD 2.54mm Angled Pin Header, 40 Pins
+
+0
+40
+40
+Pines
+61304011121
+WR-PHD 2.54mm Pin Header, 40 Pins
+
+0
+40
+40
+Pines
+61304421121
+WR-PHD 2.54mm Dual Pin Header, 40 Pins
+
+0
+44
+44
+Pines
+61308021121
+WR-PHD 2.54mm Dual Pin Header, 80 Pins
+
+0
+80
+80
+Pines
+62000411121
+WR-PHD 2.00mm Pin Header, 4 Pins
+
+0
+4
+4
+Pines
+62000421121
+WR-PHD 2.00mm Dual Pin Header, 4 Pins
+
+0
+4
+4
+Pines
+62000611121
+WR-PHD 2.00mm Pin Header, 6 Pins
+
+0
+6
+6
+Pines
+62000621121
+WR-PHD 2.00mm Dual Pin Header, 6 Pins
+
+0
+6
+6
+Pines
+62000811121
+WR-PHD 2.00mm Pin Header, 8 Pins
+
+0
+8
+8
+Pines
+62000821121
+WR-PHD 2.00mm Dual Pin Header, 8 Pins
+
+0
+8
+8
+Pines
+62001011121
+WR-PHD 2.00 mm Pin Header 10 pins, 1 row, straight, gold plating;
+
+0
+10
+10
+Pines
+62001021121
+WR-PHD 2.00mm Dual Pin Header, 10 Pins
+
+0
+10
+10
+Pines
+62001621121
+WR-PHD 2.00mm Dual Pin Header, 16 Pins
+
+0
+16
+16
+Pines
+62002011121
+WR-PHD 2.00mm Pin Header, 20 Pins
+
+0
+20
+20
+Pines
+62002021121
+WR-PHD 2.00mm Dual Pin Header, 20 Pins
+
+0
+20
+20
+Pines
+62002421121
+WR-PHD 2.00mm Dual Pin Header, 24 Pins
+
+0
+24
+24
+Pines
+62002821121
+WR-PHD 2.00 mm Dual Pin Header 28 pins, dual row, straight, gold plating;
+
+0
+28
+28
+Pines
+62003211121
+WR-PHD 2.00mm Pin Header, 32 Pins
+
+0
+32
+32
+Pines
+62004021121
+WR-PHD 2.00mm Dual Pin Header, 40 Pins
+
+0
+40
+40
+Pines
+62100621021
+
+
+0
+6
+6
+Pines
+62200421121
+<b>WR-PHD 1.27mm Dual Pin Header, 4 Pins<b>
+
+0
+4
+4
+Pines
+62200821121
+<b>WR-PHD 1.27mm Dual Pin Header, 8 Pins<b>
+
+0
+8
+8
+Pines
+62201021121
+<b>WR-PHD 1.27mm Dual Pin Header, 10 Pins<b>
+
+0
+10
+10
+Pines
+62201421121
+<b>WR-PHD 1.27mm Dual Pin Header, 14 Pins<b>
+
+0
+14
+14
+Pines
+62201621121
+<b>WR-PHD 1.27mm Dual Pin Header, 16 Pins<b>
+
+0
+16
+16
+Pines
+62202021121
+<b>WR-PHD 1.27mm Dual Pin Header, 20 Pins<b>
+
+0
+20
+20
+Pines
+62202821121
+<b>WR-PHD 1.27mm Dual Pin Header, 28 Pins<b>
+
+0
+28
+28
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -64057,6 +66311,13 @@ Mini-Circuits PL-012
 53
 16
 RF_Mini-Circuits
+Mini-Circuits_DB1627
+Mini-Circuits top-hat case DB1627 (https://ww2.minicircuits.com/case_style/DB1627.pdf)
+Mini-Circuits DB1627
+0
+6
+6
+RF_Mini-Circuits
 Mini-Circuits_GP731
 Footprint for Mini-Circuits case GP731 (https://ww2.minicircuits.com/case_style/GP731.pdf)
 Mini-Circuits GP731
@@ -64893,6 +67154,13 @@ Relay_THT
 Relay_SPDT_Finder_34.51_Vertical
 Relay SPDT, Finder Type34.51, vertical/standing form, see https://gfinder.findernet.com/public/attachments/34/EN/S34USAEN.pdf
 Relay SPDT Finder
+0
+5
+5
+Relay_THT
+Relay_SPDT_Finder_36.11
+FINDER 36.11, SPDT relay, 10A, https://gfinder.findernet.com/public/attachments/36/EN/S36EN.pdf
+spdt relay
 0
 5
 5
@@ -66401,6 +68669,62 @@ Resistor Radial_Power series Radial pin pitch 7.37mm 10W length 16.1mm width 9mm
 0
 2
 2
+Rf
+AMPHENOL_901-144
+
+
+0
+5
+5
+Rf
+ESP32-CAM
+
+
+0
+16
+16
+Rf
+L80
+
+
+0
+12
+12
+Rf
+QUECTEL_L80-M39
+
+
+0
+12
+12
+Rf
+RFM95W
+
+
+0
+16
+16
+Rf
+RN2483
+
+
+0
+47
+47
+Rf
+SMA_EDGE
+
+
+0
+5
+2
+Rf
+USR-BLE101
+
+
+0
+14
+14
 Rotary_Encoder
 RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
@@ -66877,6 +69201,13 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+Switches
+MSK12C02
+
+
+0
+5
+4
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -67833,6 +70164,1273 @@ Symbol
 WEEE-Logo_28.1x40mm_SilkScreen
 Waste Electrical and Electronic Equipment Directive
 Logo WEEE
+0
+0
+0
+TIH
+2.4GHz-INVERTED-F-ANTENNA
+
+
+0
+15
+2
+TIH
+1411(3528m)-B%2CM%2CH%2CT-TANTALUM
+
+
+0
+2
+2
+TIH
+10118192-0001LF
+USB MICRO B<p>FCI
+
+0
+11
+11
+TIH
+CPA_5x11MM
+capacitor pol, axial 5x11mm
+
+0
+2
+2
+TIH
+CPA_6x11MM
+capacitor pol, axial 6x11mm
+
+0
+2
+2
+TIH
+CPA_8x21MM
+capacitor pol, axial 8x21mm
+
+0
+2
+2
+TIH
+CPA_13x31MM
+capacitor pol, axial 13x31mm
+
+0
+2
+2
+TIH
+CPA_16x31MM
+capacitor pol, axial 16x31mm
+
+0
+2
+2
+TIH
+CPA_16x40MM
+capacitor pol, axial 16x40mm
+
+0
+2
+2
+TIH
+CP_4x5mm
+Capacitor, pol, cyl 4x5mm
+
+0
+2
+2
+TIH
+CP_4x7mm
+Capacitor, pol, cyl 4x7mm
+
+0
+2
+2
+TIH
+CP_5x5mm
+Capacitor, pol, cyl 5x5mm
+
+0
+2
+2
+TIH
+CP_5x7mm
+Capacitor, pol, cyl 5x7mm
+
+0
+2
+2
+TIH
+CP_5x11mm
+Capacitor, pol, cyl 5x11mm
+
+0
+2
+2
+TIH
+CP_5x15mm
+Capacitor, pol, cyl 5x15mm
+
+0
+2
+2
+TIH
+CP_6.3x5mm
+Capacitor, pol, cyl 6.3x5mm
+
+0
+2
+2
+TIH
+CP_6.3x7mm
+Capacitor, pol, cyl 6.3x7mm
+
+0
+2
+2
+TIH
+CP_6.3x11mm
+Capacitor, pol, cyl 6.3x11mm
+
+0
+2
+2
+TIH
+CP_6.3x15mm
+Capacitor, pol, cyl 6.3x15mm
+
+0
+2
+2
+TIH
+CP_8x7mm
+Capacitor, pol, cyl 8x7mm
+
+0
+2
+2
+TIH
+CP_8x11.5mm
+Capacitor, pol, cyl 8x11.5mm
+
+0
+2
+2
+TIH
+CP_8x15mm
+Capacitor, pol, cyl 8x15mm
+
+0
+2
+2
+TIH
+CP_8x20mm
+Capacitor, pol, cyl 8x20mm
+
+0
+2
+2
+TIH
+CP_10x12.5mm
+Capacitor, pol, cyl 10x12.5mm
+
+0
+2
+2
+TIH
+CP_10x16mm
+Capacitor, pol, cyl 10x16mm
+
+0
+2
+2
+TIH
+CP_10x20mm
+Capacitor, pol, cyl 10x20mm
+
+0
+2
+2
+TIH
+CP_10x25mm
+Capacitor, pol, cyl 10x25mm
+
+0
+2
+2
+TIH
+CP_10x30mm
+Capacitor, pol, cyl 10x30mm
+
+0
+2
+2
+TIH
+CP_12.5x15mm
+Capacitor, pol, cyl 12.5x15mm
+
+0
+2
+2
+TIH
+CP_12.5x20mm
+Capacitor, pol, cyl 12.5x20mm
+
+0
+2
+2
+TIH
+CP_12.5x25mm
+Capacitor, pol, cyl 12.5x25mm
+
+0
+2
+2
+TIH
+CP_12.5x30mm
+Capacitor, pol, cyl 12.5x30mm
+
+0
+2
+2
+TIH
+CP_12.5x35mm
+Capacitor, pol, cyl 12.5x35mm
+
+0
+2
+2
+TIH
+CP_12.5x40mm
+Capacitor, pol, cyl 12.5x40mm
+
+0
+2
+2
+TIH
+CP_16x16mm
+Capacitor, pol, cyl 16x16mm
+
+0
+2
+2
+TIH
+CP_16x20mm
+Capacitor, pol, cyl 16x20mm
+
+0
+2
+2
+TIH
+CP_16x25mm
+Capacitor, pol, cyl 16x25mm
+
+0
+2
+2
+TIH
+CP_16x31.5mm
+Capacitor, pol, cyl 16x31.5mm
+
+0
+2
+2
+TIH
+CP_16x35.5mm
+Capacitor, pol, cyl 16x35.5mm
+
+0
+2
+2
+TIH
+CP_16x40mm
+Capacitor, pol, cyl 16x40mm
+
+0
+2
+2
+TIH
+CP_18x16mm
+Capacitor, pol, cyl 18x16mm
+
+0
+2
+2
+TIH
+CP_18x20mm
+Capacitor, pol, cyl 18x20mm
+
+0
+2
+2
+TIH
+CP_18x25mm
+Capacitor, pol, cyl 18x25mm
+
+0
+2
+2
+TIH
+CP_18x31.5mm
+Capacitor, pol, cyl 18x31.5mm
+
+0
+2
+2
+TIH
+CP_18x35.5mm
+Capacitor, pol, cyl 18x35.5mm
+
+0
+2
+2
+TIH
+CP_18x40mm
+Capacitor, pol, cyl 18x40mm
+
+0
+2
+2
+TIH
+CP_22x20mm
+Capacitor, pol, cyl 22x20mm
+
+0
+2
+2
+TIH
+CP_22x25mm
+Capacitor, pol, cyl 22x25mm
+
+0
+2
+2
+TIH
+CP_22x30mm
+Capacitor, pol, cyl 22x30mm
+
+0
+2
+2
+TIH
+CP_22x35mm
+Capacitor, pol, cyl 22x35mm
+
+0
+2
+2
+TIH
+CP_22x40mm
+Capacitor, pol, cyl 22x40mm
+
+0
+2
+2
+TIH
+CP_22x45mm
+Capacitor, pol, cyl 22x45mm
+
+0
+2
+2
+TIH
+CP_22x50mm
+Capacitor, pol, cyl 22x50mm
+
+0
+2
+2
+TIH
+CP_25x20mm
+Capacitor, pol, cyl 25x20mm
+
+0
+2
+2
+TIH
+CP_25x25mm
+Capacitor, pol, cyl 25x25mm
+
+0
+2
+2
+TIH
+CP_25x30mm
+Capacitor, pol, cyl 25x30mm
+
+0
+2
+2
+TIH
+CP_25x35mm
+Capacitor, pol, cyl 25x35mm
+
+0
+2
+2
+TIH
+CP_25x40mm
+Capacitor, pol, cyl 25x40mm
+
+0
+2
+2
+TIH
+CP_25x45mm
+Capacitor, pol, cyl 25x45mm
+
+0
+2
+2
+TIH
+CP_25x50mm
+Capacitor, pol, cyl 25x50mm
+
+0
+2
+2
+TIH
+CP_30x20mm
+Capacitor, pol, cyl 30x20mm
+
+0
+2
+2
+TIH
+CP_30x25mm
+Capacitor, pol, cyl 30x25mm
+
+0
+2
+2
+TIH
+CP_30x30mm
+Capacitor, pol, cyl 30x30mm
+
+0
+2
+2
+TIH
+CP_30x35mm
+Capacitor, pol, cyl 30x35mm
+
+0
+2
+2
+TIH
+CP_30x40mm
+Capacitor, pol, cyl 30x40mm
+
+0
+2
+2
+TIH
+CP_30x45mm
+Capacitor, pol, cyl 30x45mm
+
+0
+2
+2
+TIH
+CP_30x50mm
+Capacitor, pol, cyl 30x50mm
+
+0
+2
+2
+TIH
+CP_35x20mm
+Capacitor, pol, cyl 35x20mm
+
+0
+2
+2
+TIH
+CP_35x25mm
+Capacitor, pol, cyl 35x25mm
+
+0
+2
+2
+TIH
+CP_35x30mm
+Capacitor, pol, cyl 35x30mm
+
+0
+2
+2
+TIH
+CP_35x35mm
+Capacitor, pol, cyl 35x35mm
+
+0
+2
+2
+TIH
+CP_35x40mm
+Capacitor, pol, cyl 35x40mm
+
+0
+2
+2
+TIH
+CP_35x45mm
+Capacitor, pol, cyl 35x45mm
+
+0
+2
+2
+TIH
+CP_35x50mm
+Capacitor, pol, cyl 35x50mm
+
+0
+2
+2
+TIH
+Conn_uSDcard
+
+
+0
+13
+9
+TIH
+DIN6
+DIN6
+DIN6
+0
+10
+10
+TIH
+DO-214AA
+
+
+0
+2
+2
+TIH
+GSG-SMA-EDGE
+
+
+0
+17
+5
+TIH
+LFXTAL016178Reel
+
+
+0
+4
+4
+TIH
+LM2596DC-DC
+
+
+0
+4
+4
+TIH
+QFN24-PAD
+
+
+0
+25
+25
+TIH
+QUECTEL_L80-M39
+
+
+0
+12
+12
+TIH
+RN2483
+
+
+0
+47
+47
+TIH
+SMA-EDGE
+
+
+0
+17
+2
+TIH
+SOD-128
+
+
+0
+2
+2
+TIH
+SW_B3U-1000P
+
+
+0
+2
+2
+TIH
+SW_SPST_KMR2
+CK components KMR2 tactile switch http://www.ck-components.com/kmr-2/tactile,10572,en.html
+tactile switch kmr2
+0
+4
+2
+TIH
+Supercapcoin
+
+
+0
+2
+2
+TIH
+TO-263-5
+
+
+0
+6
+6
+TIH
+USB_micro
+<b>SMALL OUTLINE INTEGRATED CIRCUIT</b><p>body 3.9 mm/JEDEC MS-012AA
+
+0
+8
+8
+TIH
+WS2812B
+
+
+0
+4
+4
+TIH
+XCVR_RFM95W-868S2
+
+
+0
+16
+16
+TIH
+arduinoMiniPro2
+ABK-PRO-MINI
+
+0
+29
+29
+TIH
+badge_mexa
+
+
+0
+0
+0
+TIH
+badge_mexa_10x7
+
+
+0
+0
+0
+TIH
+badge_mexa_bli
+
+
+0
+0
+0
+TIH
+bugcon
+
+
+0
+0
+0
+TIH
+bugcon_10
+
+
+0
+0
+0
+TIH
+cnp_3mm_disc
+Small ceramic capacitor
+C
+0
+2
+2
+TIH
+cnp_6mm_disc
+6mm disc ceramic capacitor
+C
+0
+2
+2
+TIH
+cnp_7.5mm_disc
+7.5mm disc ceramic capacitor
+C
+0
+2
+2
+TIH
+cnp_7x2mm
+Capacitor non pol, 7x2,5mm
+
+0
+2
+2
+TIH
+cnp_7x4.5mm
+Capacitor non pol, 7x4,5mm
+
+0
+2
+2
+TIH
+cnp_7x6mm
+Capacitor non pol, 7x6mm
+
+0
+2
+2
+TIH
+cnp_12mm_disc
+12mm disc ceramic capacitor
+C
+0
+2
+2
+TIH
+cnp_13x4mm
+Capacitor non pol, 13x4mm
+
+0
+2
+2
+TIH
+cnp_18x5mm
+Capacitor non pol, 18x5mm
+
+0
+2
+2
+TIH
+cnp_18x6mm
+Capacitor non pol, 18x6mm
+
+0
+2
+2
+TIH
+cnp_18x8mm
+cap non pol, 18x8mm
+
+0
+2
+2
+TIH
+cnpa_10x33mm
+capacitor, axial 10x33mm
+
+0
+2
+2
+TIH
+cnpa_12x33mm
+capacitor, axial 12x33mm
+
+0
+2
+2
+TIH
+cnpa_14x33mm
+capacitor, axial 14x33mm
+
+0
+2
+2
+TIH
+cnpa_16x33mm
+capacitor, axial 16x33mm
+
+0
+2
+2
+TIH
+cnpa_18x33mm
+capacitor, axial 18x33mm
+
+0
+2
+2
+TIH
+cnpa_20x33mm
+capacitor, axial 20x33mm
+
+0
+2
+2
+TIH
+cnpa_20x44mm
+capacitor, axial 20x44mm
+
+0
+2
+2
+TIH
+cnpa_22x33mm
+capacitor, axial 22x33mm
+
+0
+2
+2
+TIH
+cnpa_24x44mm
+capacitor, axial 24x44mm
+
+0
+2
+2
+TIH
+cnpa_28x44mm
+capacitor, axial 28x44mm
+
+0
+2
+2
+TIH
+cnpa_29x58mm
+capacitor, axial 29x58mm
+
+0
+2
+2
+TIH
+cnpa_32x58mm
+capacitor, axial 32x58mm
+
+0
+2
+2
+TIH
+cnpa_34x44mm
+capacitor, axial 34x44mm
+
+0
+2
+2
+TIH
+electronic_cats_logo_4x3
+
+
+0
+0
+0
+TIH
+electronic_cats_logo_8x6
+
+
+0
+0
+0
+TIH
+electronic_cats_logo_38x30
+
+
+0
+0
+0
+TIH
+electronic_cats_logo_70x60
+
+
+0
+0
+0
+TIH
+fsociety
+
+
+0
+0
+0
+TIH
+hackergirl
+
+
+0
+0
+0
+TIH
+hackergirl_15x15
+
+
+0
+0
+0
+TIH
+hackergirl_30x30
+
+
+0
+0
+0
+TIH
+intel_logo
+
+
+0
+0
+0
+TIH
+inventor
+
+
+0
+0
+0
+TIH
+ippsa
+
+
+0
+0
+0
+TIH
+ippsa_med
+
+
+0
+0
+0
+TIH
+ippsa_small
+
+
+0
+0
+0
+TIH
+linkthinks
+
+
+0
+0
+0
+TIH
+logo_tih
+
+
+0
+0
+0
+TIH
+meteorito
+
+
+0
+0
+0
+TIH
+mpt_0,5%2f2-2,54
+2-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+2
+2
+TIH
+mpt_0,5%2f3-2,54
+3-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+3
+3
+TIH
+mpt_0,5%2f4-2,54
+4-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+4
+4
+TIH
+mpt_0,5%2f5-2,54
+5-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+5
+5
+TIH
+mpt_0,5%2f6-2,54
+6-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+6
+6
+TIH
+mpt_0,5%2f7-2,54
+7-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+7
+7
+TIH
+mpt_0,5%2f8-2,54
+8-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+8
+8
+TIH
+mpt_0,5%2f9-2,54
+9-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+9
+9
+TIH
+mpt_0,5%2f10-2,54
+10-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+10
+10
+TIH
+mpt_0,5%2f11-2,54
+11-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+11
+11
+TIH
+mpt_0,5%2f12-2,54
+12-way 2.54mm pitch terminal block, Phoenix MPT series
+
+0
+12
+12
+TIH
+panelmate_smd_2
+PanelMate connector 2-way, Molex P/N 53780-0270
+
+0
+4
+3
+TIH
+panelmate_smd_3
+PanelMate connector 3-way, Molex P/N 53780-0370
+
+0
+5
+4
+TIH
+panelmate_smd_4
+PanelMate connector 4-way, Molex P/N 53780-0470
+
+0
+6
+5
+TIH
+panelmate_smd_5
+PanelMate connector 5-way, Molex P/N 53780-0570
+
+0
+7
+6
+TIH
+panelmate_smd_6
+PanelMate connector 6-way, Molex P/N 53780-0670
+
+0
+8
+7
+TIH
+panelmate_smd_7
+PanelMate connector 7-way, Molex P/N 53780-0770
+
+0
+9
+8
+TIH
+panelmate_smd_8
+PanelMate connector 8-way, Molex P/N 53780-0870
+
+0
+10
+9
+TIH
+panelmate_smd_9
+PanelMate connector 9-way, Molex P/N 53780-0970
+
+0
+11
+10
+TIH
+panelmate_smd_10
+PanelMate connector 10-way, Molex P/N 53780-1070
+
+0
+12
+11
+TIH
+panelmate_smd_12
+PanelMate connector 12-way, Molex P/N 53780-1270
+
+0
+14
+13
+TIH
+panelmate_smd_14
+PanelMate connector 14-way, Molex P/N 53780-1470
+
+0
+16
+15
+TIH
+panelmate_smd_15
+PanelMate connector 15-way, Molex P/N 53780-1570
+
+0
+17
+16
+TIH
+panelmate_smd_18
+PanelMate connector 18-way, Molex P/N 53780-1870
+
+0
+20
+19
+TIH
+panelmate_smd_20
+PanelMate connector 20-way, Molex P/N 53780-2070
+
+0
+22
+21
+TIH
+panelmate_smd_30
+PanelMate connector 30-way, Molex P/N 53780-3070
+
+0
+32
+31
+TIH
+phv_h_9x17.3x14.5
+PHV series supercapacitor, horizontal, 9x17.3x14.5
+
+0
+2
+2
+TIH
+phv_h_9x17.3x22
+PHV series supercapacitor, horizontal, 9x17.3x22
+
+0
+2
+2
+TIH
+phv_h_9x17.3x32.5
+PHV series supercapacitor, horizontal, 9x17.3x32.5
+
+0
+2
+2
+TIH
+phv_h_11x21.3x23
+PHV series supercapacitor, horizontal, 11x21.3x23
+
+0
+2
+2
+TIH
+phv_h_11x21.3x32.5
+PHV series supercapacitor, horizontal, 11x21.3x32.5
+
+0
+2
+2
+TIH
+phv_v_9x17.3x14.5
+PHV series supercapacitor, vertical, 9x17.3x14.5
+
+0
+2
+2
+TIH
+phv_v_9x17.3x22
+PHV series supercapacitor, vertical, 9x17.3x22
+
+0
+2
+2
+TIH
+phv_v_9x17.3x32.5
+PHV series supercapacitor, vertical, 9x17.3x32.5
+
+0
+2
+2
+TIH
+phv_v_11x21.3x23
+PHV series supercapacitor, vertical, 11x21.3x23
+
+0
+2
+2
+TIH
+phv_v_11x21.3x32.5
+PHV series supercapacitor, vertical, 11x21.3x32.5
+
+0
+2
+2
+TIH
+samykamkar
+
+
+0
+0
+0
+TIH
+tih_logo
+
+
+0
+0
+0
+TIH
+tpx_logo
+
+
+0
+0
+0
+TIH
+upercapcoin
+
+
+0
+2
+2
+TIH
+z_RPiZero_Hat_NPTH
+
+
+0
+44
+40
+TIH
+zally
+Imported from zally2.svg
+svg2mod
+0
+0
+0
+TIH
+zally5x5
+Imported from zally5x5.svg
+svg2mod
 0
 0
 0
@@ -72134,6 +75732,256 @@ transformer flyback
 0
 10
 10
+USB
+685119134923
+WR-COM SMT Horizontal HDMI, 19 pins
+
+0
+23
+20
+USB
+685119135725
+
+
+0
+23
+20
+USB
+685119136923
+WR-COM SMT Horizontal Mini HDMI, 19 pins
+
+0
+23
+20
+USB
+685119248123
+
+
+0
+23
+20
+USB
+685119248223
+
+
+0
+23
+20
+USB
+651005136421
+WR-COM Vertical 5 Contacts Mini USB Type B, 5 pins
+
+0
+7
+6
+USB
+651005136521
+WR-COM Horizontal 5 Contacts Mini USB Typ B
+
+0
+9
+6
+USB
+677006144321
+WR-COM Up Right Receptacle IEEE 1394 / Fire Wire, 6 pins
+
+0
+9
+7
+USB
+677006144521
+WR-COM Horizontal Receptacle IEEE 1394 / Fire Wire, 6 pins
+
+0
+8
+8
+USB
+651305142821
+WR-COM Horizontal 5 Contacts Mini USB Type AB
+
+0
+9
+6
+USB
+62900416021
+WR-COM SMT Horizontal USB Type A, 4 pins
+
+0
+6
+5
+USB
+62910416121
+WR-COM SMT Horizontal USB Type B, 4 pins
+
+0
+6
+5
+USB
+614004134726
+WR-COM Up Right USB Type A, 4 pins
+
+0
+8
+5
+USB
+614004184726
+
+
+0
+7
+5
+USB
+614004185023
+
+
+0
+6
+5
+USB
+614004190021
+
+
+0
+6
+5
+USB
+614008235023
+WR-COM Vertical Dual USB Type A
+
+0
+12
+9
+USB
+614104150121
+<b>614104150121</b><p>
+WR-COM_USB_Type A_Reverse Horizontal_THT Type A Reverse Horizontal THT - with Clips - Slim type for PCB thickness 1.20mm
+
+0
+6
+5
+USB
+614104190121
+
+
+0
+6
+6
+USB
+614105150621
+<b>614105150621</b><p>
+WR-COM_USB_Micro Type AB_Vertical_THT Micro Type AB Vertical THT - Tape & Reel not for Pick & Place machine
+
+0
+7
+6
+USB
+614105150721
+<b>614105150721</b><p>
+WR-COM_USB_Micro Type B_Vertical_THT Micro Type B Vertical THT- Tape & Reel not for Pick & Place machine
+
+0
+7
+6
+USB
+632723X00011
+
+
+0
+32
+32
+USB
+692112030100
+<B>WR-COM </B> USB 3.0 SMT PLUG WITH CLIPTYPE A
+
+0
+11
+10
+USB
+65100516121
+WR-COM SMT Horizontal 5 Contacts Mini USB Typ B
+
+0
+9
+6
+USB
+632121300001
+
+
+0
+17
+14
+USB
+61400413321
+WR-COM Vertical USB Type B, 4 pins
+
+0
+6
+5
+USB
+61400416021
+WR-COM Horizontal USB Type A
+
+0
+6
+5
+USB
+61400416121
+WR-COM Horizontal USB Type B
+
+0
+6
+5
+USB
+61400826021
+WR-COM Horizontal Dual Stacked USB Type A
+
+0
+12
+9
+USB
+632712000011
+
+
+0
+24
+23
+USB
+629004113921
+WR-COM Plug SMT With Clip USB Type A, 4 pins
+
+0
+6
+5
+USB
+629104151021
+<b>629104151021</b><p>
+WR-COM_USB_Type A_Horizontal_SMT Type A Horizontal SMT - with Pegs - T&R Packaging
+
+0
+6
+5
+USB
+629104190121
+
+
+0
+8
+5
+USB
+629105136821
+WR-COM SMT Horizontal 5 Contacts Micro USB Type B, 5 pins
+
+0
+9
+6
+USB
+629105150521
+<b>629105150521</b><p>
+WR-COM_USB_Micro Type B_Horizontal_SMT Micro Type B Horizontal SMT - 3A current at Pin1 & Pin 5 - with Pegs and THT shielding Pins  - T&R Packaging
+
+0
+9
+6
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
