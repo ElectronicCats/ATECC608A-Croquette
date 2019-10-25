@@ -1,4 +1,18 @@
-17124589825841408
+17108923663428408
+Aesthetics
+3v3
+
+
+0
+0
+0
+Aesthetics
+GND
+
+
+0
+0
+0
 Aesthetics
 OSHW_MX003
 
@@ -22,6 +36,20 @@ OSHW_MX0007_8x8
 0
 Aesthetics
 OSHW_MX0009
+
+
+0
+0
+0
+Aesthetics
+SCL
+
+
+0
+0
+0
+Aesthetics
+SDA
 
 
 0
@@ -57,20 +85,6 @@ chip_sms
 0
 Aesthetics
 chip_sms_mask
-
-
-0
-0
-0
-Aesthetics
-digetech
-
-
-0
-0
-0
-Aesthetics
-digetech_inverted
 
 
 0
@@ -189,55 +203,6 @@ svg2mod
 0
 0
 Aesthetics
-love
-
-
-0
-0
-0
-Aesthetics
-love_2
-
-
-0
-0
-0
-Aesthetics
-love_3
-
-
-0
-0
-0
-Aesthetics
-love_4
-
-
-0
-0
-0
-Aesthetics
-love_5
-
-
-0
-0
-0
-Aesthetics
-love_6
-
-
-0
-0
-0
-Aesthetics
-love_7
-
-
-0
-0
-0
-Aesthetics
 meowmeow_logo
 
 
@@ -259,27 +224,6 @@ meteorito
 0
 0
 Aesthetics
-openhack
-
-
-0
-0
-0
-Aesthetics
-openhack_negativo
-
-
-0
-0
-0
-Aesthetics
-openhack_negatvo
-
-
-0
-0
-0
-Aesthetics
 pcbway
 
 
@@ -288,20 +232,6 @@ pcbway
 0
 Aesthetics
 redmet
-
-
-0
-0
-0
-Aesthetics
-seguridad-01
-
-
-0
-0
-0
-Aesthetics
-seguridad-03
 
 
 0
