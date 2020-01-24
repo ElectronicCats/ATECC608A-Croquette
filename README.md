@@ -1,6 +1,6 @@
-# Electronic Cats ATECC608 Breakout Board
+# Electronic Cats Croquette ATECC608
 
-PCB files for the Electronic Cats ATECC608 Breakout Board. 
+PCB files for the Electronic Cats Croquette ATECC608. 
 
 Format is KiCAD schematic and board layout
 
