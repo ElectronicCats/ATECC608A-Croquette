@@ -1,4 +1,8 @@
 # Electronic Cats Croquette ATECC608
+<a href="https://electroniccats.com/store/atecc608a-croquette/">
+  <img src="https://electroniccats.com/wp-content/uploads/badge_store.png" height="104" />
+</a>
+
 
 PCB files for the Electronic Cats Croquette ATECC608. 
 
